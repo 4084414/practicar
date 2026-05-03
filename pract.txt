@@ -1,1 +1,3 @@
 Esto es para practicar en el examen
+
+numeros neg
